@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54f8808b-c6c0-4011-b96c-8400670a16c4"  height=200 width=200/>
+</p>
+
+
 # xst: The Command Line's Tiny Telemetry Titan
 
 ## What is xst?
@@ -18,3 +23,10 @@ To install `xst`, run:
 
 ```bash
 curl -s https://raw.githubusercontent.com/ProbotisOP/ExecStat/main/xst.bash | bash
+
+cd ExecStat 
+
+chmod +x xst.bash
+
+mv xst.bash /usr/local/bin/xst 
+```
