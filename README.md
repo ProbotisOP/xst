@@ -9,6 +9,8 @@
 
 `xst` is your command line's personal fitness tracker. It's like having a tiny, lightning-fast accountant that tells you exactly how much CPU sweat, RAM calories, and time your commands are burning!
 
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/4843918d-5024-4c00-aec2-c13f33cdc101">
+
 ## Why xst?
 
 Because ignorance isn't bliss when it comes to performance! `xst` lets you:
